@@ -222,6 +222,30 @@ header .follow a:hover{
     text-transform: none;
 }
 
+.about .skill-container{
+  flex: 1 1 40rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.about .skill-container .box{
+  flex: 1 1 15rem;
+  background: #fff;
+  padding: 2rem;
+  border-radius: .5rem;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+}
+
+/*.about .skill-container .box img{
+  width: 20rem;
+}*/
+
+.about .skill-container .box h3{
+  color: var(--main-color);
+  font-size: 3rem;
+}
+
 
 
 
