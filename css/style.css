@@ -491,7 +491,7 @@ header .follow a:hover{
   margin-bottom: 1.5rem;
 }
 
-.footer{
+footer{
   margin-top: 2rem;
   font-size: 1.5rem;
   padding: 2.5rem;
@@ -500,10 +500,9 @@ header .follow a:hover{
   background: #fcf2e8;
 }
 
-.footer span{
+.creatorName{
   color: var(--main-color);
 }
-
 
 
 
